@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Racket
 - 💞️ I’m looking to collaborate on web applications
 - 📫 How to reach me tec.alexandreborba@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Calm, focused and determined
+- ⚡ Fun fact: I like coffee
 
 <!---
 borbakalexandre/borbakalexandre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
